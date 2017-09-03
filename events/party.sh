@@ -35,4 +35,6 @@ feh -rzsFZ -D $INTERVAL $PHOTODIR
 #    - user                                      #
 #    - pid file                                  #
 #    - music location                            #
+# I also needed to update permissions on         #
+# /var/lib/mpd                                   #
 ##################################################
