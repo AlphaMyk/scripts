@@ -25,7 +25,7 @@ mpc listall | shuf | mpc add
 mpc play
 
 # Set up our slideshow
-feh -rzsFZ -D $INTERVAL $PHOTODIR
+feh -rzsFZY --auto-rotate -D $INTERVAL $PHOTODIR
 
 ##################################################
 # Notes:                                         #
