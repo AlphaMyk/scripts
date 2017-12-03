@@ -37,4 +37,5 @@ feh -rzsFZY --auto-rotate -D $INTERVAL $PHOTODIR
 #    - music location                            #
 # I also needed to update permissions on         #
 # /var/lib/mpd                                   #
+# Remember to restart mpd if you change location #
 ##################################################
